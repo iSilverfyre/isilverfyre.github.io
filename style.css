@@ -1,0 +1,84 @@
+body {
+	background-image: url("./images/background.gif");
+	margin: 0;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+/* v Header/Menu CSS v */
+
+/* Style the header */
+.header {
+	background-color: #00a3ef;
+	color: white;
+	padding: 1px;
+	text-align: center;
+	font-family: 'Shadows Into Light', sans-serif;
+}
+
+/* Style the top navigation bar */
+.topnav {
+	overflow: hidden;
+	background-color: #333333;
+}
+
+/* Style the topnav links */
+.topnav a {
+	float: left;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	border-right: 1px solid #bbbbbb;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+	background-color: #dddddd;
+	color: black;
+}
+/* ^ Header/Menu CSS ^ */
+
+/* v Site Body CSS v */
+#page-header {
+	font-family: 'Play', sans-serif;
+	font-size: 50px;
+	letter-spacing: 4.7px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	color: #6ec1e4;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+#site-body {
+	margin: 0 15% 0 15%;
+	font-family: 'Play', sans-serif;
+	padding-bottom: 100px;
+	position: relative;
+	text-align: left;
+}
+/* ^ Site Body CSS ^ */
+
+/* v Footer CSS v */
+#social_media {
+	padding-bottom: 10px;
+	font-size: 35px;
+	position: relative;
+	text-align: center;
+}
+
+#copyright {
+	font-family: 'Play', sans-serif;
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+.fa-facebook-square {color: #3c5a99;}
+.fa-twitter-square {color: #38A1F3;}
+.fa-github-square {color: #211F1F;}
+.fa-linkedin {color: #2867b2;}
+/* ^ Footer CSS ^ */
