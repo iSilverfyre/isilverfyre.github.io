@@ -1,29 +1,43 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		</head>
-		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">About</a></li>
-	        		<li><a href="/cv">CV</a></li>
-	        		<li><a href="/blog">Blog</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
-			
+<html>
+	<head>
+		<title>{{ page.title }}</title>
+		<link href="https://fonts.googleapis.com/css?family=Play|Shadows+Into+Light" rel="stylesheet">
+		<link rel="icon" href="./images/favicon.png" type="image/gif" sizes="16x16">
+		<script src="https://kit.fontawesome.com/f0955d8234.js" crossorigin="anonymous"></script>
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+
+	<body>
+		<!-- v DO NOT ALTER HEADER AREA! v -->
+		<div class="header">
+			<h1>Silverfyre's Hangout</h1>
+		</div>
+
+		<div class="topnav">
+			<a href="https://silverfyre.info/index.html">Home</a>
+			<a href="https://silverfyre.info/pets.html">Pets</a>
+			<a href="https://silverfyre.info/poetry.html">Poetry</a>
+			<a href="https://silverfyre.info/contact.html">Contact</a>
+		</div>
+		<!--  ^ DO NOT ALTER HEADER AREA! ^ -->
+
+		<div id="site-body">
+			<div id="page-header">PAGE HEADER HERE</div>
 			{{ content }}
-			
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
-	        		<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>
+		</div>
+	
+		<!-- v DO NOT ALTER FOOTER AREA! v -->
+		<div id="social_media">
+			<a href="https://www.facebook.com/analicia.mayne.abernathy"><i class="fab fa-facebook-square"></i></a>
+			<a href="https://twitter.com/pogib14"><i class="fab fa-twitter-square"></i></a>
+			<a href="https://github.com/iSilverfyre"><i class="fab fa-github-square"></i></a>
+			<a href="https://www.linkedin.com/in/analicia-abernathy"><i class="fab fa-linkedin"></i></a>
+		</div>
+		
+		<div id="copyright">
+			&copy; 2009 - 2019 | All Rights Reserved
+		</div>
+		<!-- ^ DO NOT ALTER FOOTER AREA! -->
+	</body>
+</html>
