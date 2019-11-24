@@ -1,2 +1,3 @@
 name: Silverfyre's Hangout
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
