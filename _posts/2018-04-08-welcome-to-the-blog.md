@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to the Blog!"
-date: 2019-11-23
+date: 2018-04-08
 ---
 
 I’ve been in the process of constructing this website and well frankly I am not even 100% sure what it will become. I have changed my mind a few hundred times on what I will and will not have in it. But regardless it will be mine and I will make the best of it.
