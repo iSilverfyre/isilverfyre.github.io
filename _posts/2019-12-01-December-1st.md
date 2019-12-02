@@ -11,5 +11,3 @@ Fire drills should never be held at 6 AM, although who knows maybe their was a f
 Today I was able to go get the Christmas Tree I had promised to get my roommate.  I wanted to do it sooner, like middle of November sooner, but saldy both of our lives got in the way.  But the tree is bought and being put up, I even managed a few decorative lights for the house.  As well decorations for the office were purchased, because why not, we are having a contest and I like shiny things.  By this weekend I will have more Christmas then I (and possibly my co-workers) know what to do with.  But that is for later this week.
 
 My roommate finished the tree and sent me a picture and well it looks beautiful I must say.  I will attach a picture at the end of said tree for those who like that stuff.  And I guess this is starting to sound kind of rambley so maybe I should stop here.  Happy December 1st everyone, and tune in next time for my next crazy update, hopefully not months from now.
-
-![Image of Christmas Tree](/images/christmas-tree.jpeg)
